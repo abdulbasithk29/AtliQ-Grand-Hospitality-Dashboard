@@ -61,4 +61,4 @@ Built a comprehensive BI solution that transforms raw hospitality data into **ac
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
